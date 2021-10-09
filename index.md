@@ -1,5 +1,5 @@
 ## Welcome to ZLL Pages
-![Image](hsst.jpg)
+![Image](/hsst.jpg)
 You can contact me by email or WeChat
 
 ### 个人经历
